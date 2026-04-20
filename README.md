@@ -4,7 +4,6 @@
 
 💻 Full Stack Developer (MERN)
 🚀 Focused on Backend Systems, Scalable Architecture & Cloud
-📍 Pune, India
 
 ---
 
@@ -32,23 +31,11 @@ I specialize in building scalable systems and solving real-world development pro
 
 ---
 
-### 📬 Let’s Work Together
 
-* 💼 Open to: GitHub Bounties | Freelance | Collaboration
-* 📧 Email: YOUR-EMAIL
-* 🔗 LinkedIn: YOUR-LINK
 
 > ⚡ I actively look for issues to solve and contribute to—feel free to reach out or tag me.
 
 ---
-
-
-
-## 🚀 Featured Project
-
-### 📦 OrderFlow Pro – Scalable Order Management System
-
-A full-stack application that simulates a real-world enterprise order processing system with scalable backend architecture.
 
 #### 🔑 Highlights
 
@@ -70,22 +57,6 @@ A full-stack application that simulates a real-world enterprise order processing
 
 ---
 
-## 🛠 Tech Stack
-
-**Frontend**
-HTML • CSS • JavaScript • React
-
-**Backend**
-Node.js • Express.js
-
-**Database**
-MongoDB • PostgreSQL
-
-**Tools & DevOps**
-Git • Docker • AWS (Learning)
-
----
-
 ## 📈 Current Focus
 
 * System Design & Scalable Backend Architecture
@@ -94,13 +65,6 @@ Git • Docker • AWS (Learning)
 
 ---
 
-## 📊 GitHub Stats
-
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujkshirsagar\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujkshirsagar\&layout=compact)
-
----
 
 ## 🤝 Connect With Me
 
