@@ -1,3 +1,5 @@
+---
+
 # 👋 Hi, I'm Anuj Kshirsagar
 
 💻 Full Stack Developer (MERN)
@@ -6,12 +8,41 @@
 
 ---
 
-## 🧠 About Me
+## 💼 Open to Work & Bounties
 
-I’m a developer who enjoys building scalable backend systems and real-world applications.
-Currently focused on improving system design, cloud deployment, and writing production-level code.
+I’m available for **paid GitHub issues, freelance work, and backend-focused projects**.
+I specialize in building scalable systems and solving real-world development problems.
+
+### 🚀 What I Can Help With
+
+* 🛠 Backend Development (Node.js, Express)
+* 🔐 Authentication & Authorization (JWT, Role-Based Access)
+* 📦 API Design & Integration
+* ⚡ Bug Fixing & Performance Optimization
+* 🧱 Scalable Project Architecture (Controller–Service Pattern)
+* ☁️ Deployment (Docker, AWS – learning & applying)
 
 ---
+
+### 🧠 Why Work With Me
+
+* Clean, maintainable, and production-ready code
+* Clear communication & fast turnaround
+* Focus on solving the root problem, not just quick fixes
+
+---
+
+### 📬 Let’s Work Together
+
+* 💼 Open to: GitHub Bounties | Freelance | Collaboration
+* 📧 Email: YOUR-EMAIL
+* 🔗 LinkedIn: YOUR-LINK
+
+> ⚡ I actively look for issues to solve and contribute to—feel free to reach out or tag me.
+
+---
+
+
 
 ## 🚀 Featured Project
 
