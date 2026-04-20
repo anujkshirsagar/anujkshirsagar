@@ -1,6 +1,6 @@
 ---
 
-# 👋 Hi, I'm Anuj Kshirsagar
+#                    Anuj Kshirsagar
 
 💻 Full Stack Developer (MERN)
 🚀 Focused on Backend Systems, Scalable Architecture & Cloud
